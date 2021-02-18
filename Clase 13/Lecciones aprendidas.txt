@@ -1,0 +1,8 @@
+LECCIONES APRENDIDAS:
+
+1) Se aprendio a utilizar coreectamente los documentos jsp (como crearlos, prograamarlos y conectar un jsp con otro )
+
+2)Método de programación para poder insertar varias jsp un proyecto (utilización del modelo vista-controlador y forward request))
+
+3)Concejos del profesor: El programador siempre tiene que encontrar una manera ingeniosa de resolver un problema, esta solución tiene que ser 
+óptima en términos de almacenamiento, mantenibilidad y flexibilidad.
